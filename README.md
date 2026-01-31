@@ -541,8 +541,8 @@ If you find this project useful, please consider giving it a star! ⭐
 
 **Built with ❤️ for the automation community**
 
-**Powered by Local AI with Ollama 🤖**
+**Powered by issoura **
 
-**Version 4.0.0** | [Changelog](CHANGELOG.md) | [Documentation](docs/)
+**Version 4.0.0**
 
 </div>
